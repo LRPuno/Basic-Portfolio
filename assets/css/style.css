@@ -114,6 +114,14 @@ a:active {
     text-decoration: none;
 }
 
+#forPortfolioLinks {
+    color: white;
+}
+
+#forPortfolioLinks:hover {
+    color: lightpink;
+}
+
 /* Section Content */
 section {
     width: 960px;
